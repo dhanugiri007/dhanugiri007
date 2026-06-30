@@ -28,6 +28,8 @@ Building secure, scalable systems with Node.js, Express, and MongoDB.
 | **Tools** | Git · GitHub · Postman · SwaggerUI |
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=dhanugiri007&theme=dark)
+---
 
 ## 🚀 Projects
 
@@ -48,8 +50,6 @@ Building secure, scalable systems with Node.js, Express, and MongoDB.
 - Engineered strict **Role-Based Access Control (RBAC)** across Admin, Doctor, and Patient roles
 - Prevented race conditions and appointment double-booking by enforcing **MongoDB compound unique indexes** at the database layer
 - Designed a secure auth pipeline using **JWT + bcrypt password hashing + TTL-based token invalidation** for logout handling
-
----
 
 ---
 
