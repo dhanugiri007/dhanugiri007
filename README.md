@@ -1,55 +1,117 @@
 
-
 <div align="center">
 
-# Hi, I'm Dhanashri 👋
+# Dhanashri Chaudhari
 
-**Focused on learning Backend and Problem solving · Research Intern @ Smart Lab**
+Backend Engineering • Systems Programming • Problem Solving
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanashrichaudhari007/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanashrichaudhari200@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Internships-00B37E?style=for-the-badge&logo=briefcase&logoColor=white)]()
+Research Intern @ Smart Lab
+
+[LinkedIn](https://www.linkedin.com/in/dhanashrichaudhari007/) •
+[Email](mailto:dhanashrichaudhari200@gmail.com)
 
 </div>
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-| Category | Technologies |
-|---|---|
-| **Languages** | JavaScript · C++ · SQL |
-| **Backend** | Node.js · Express.js |
-| **Databases** | MongoDB · PostgreSQL |
-| **Auth & Security** | JWT · bcrypt . HTTP-only cookies|
-| **Tools** | Git · GitHub · Postman · SwaggerUI |
+I'm interested in backend engineering and distributed systems. Most of my projects focus on designing reliable APIs, understanding how systems behave under failure, and implementing ideas from first principles instead of relying entirely on frameworks.
+
+Currently exploring database internals, vector search, authentication, and system design while solving data structures and algorithms.
 
 ---
+
+## Technologies
+
+**Languages**
+
+- C++
+- JavaScript
+- SQL
+
+**Backend**
+
+- Node.js
+- Express.js
+
+**Databases**
+
+- MongoDB
+- PostgreSQL
+
+**Security**
+
+- JWT
+- bcrypt
+- HTTP-only Cookies
+
+**Tools**
+
+- Git
+- GitHub
+- Postman
+- Swagger
+
+---
+
+## Selected Projects
+
+### PaySphere
+
+A digital wallet backend built around a double-entry ledger rather than maintaining mutable account balances.
+
+Highlights
+
+- Atomic money transfers using MongoDB transactions
+- Idempotency keys to safely retry failed requests
+- JWT authentication and secure session handling
+- Transaction history with complete auditability
+
+---
+
+### Atlas
+
+An in-memory vector database implemented in C++ to explore similarity search and indexing algorithms.
+
+Highlights
+
+- REST API for vector insertion and nearest-neighbor queries
+- Brute-force and KD-tree search implementations
+- Multiple distance metrics (Cosine, Euclidean, Manhattan)
+- Modular architecture separating storage, indexing, and search
+- Built as a study of vector database internals rather than a production system
+
+---
+
+## GitHub Statistics
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhanugiri007&theme=dark)
----
-
-##  Projects
-
-###  PaySphere — a digital wallet backend
-Built around a double-entry ledger instead of storing raw balances, so every transaction is auditable. Uses MongoDB transactions to keep multi-account transfers atomic, and idempotency keys so retried requests don't double-charge anyone.
- 
----
-
-###  Medicore — a hospital management API 
-Handles three separate roles (patient, doctor, admin) with route-level access control. Appointment booking is protected by compound unique indexes at the DB layer to avoid double-booking under concurrent requests.
 
 ---
 
-## 📬 Let's Connect
+## Interests
 
-Actively seeking **Software Engineering / Backend Internship** opportunities.
-I love building systems.
+Currently reading and building around
 
-- 🔗 [linkedin.com/in/dhanashrichaudhari007](https://www.linkedin.com/in/dhanashrichaudhari007/)
-- 📧 [dhanashrichaudhari200@gmail.com](mailto:dhanashrichaudhari200@gmail.com)
+- Database Internals
+- Distributed Systems
+- Search Algorithms
+- Backend Architecture
+- Modern C++
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/dhanashrichaudhari007/
+- Email: dhanashrichaudhari200@gmail.com
 
 ---
 
 <div align="center">
-  <sub>If the system can't handle it, build one that can.</sub>
+
+*"Simple systems are easy to build. Reliable systems are difficult."*
+
 </div>
+
