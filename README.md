@@ -91,21 +91,6 @@ A C++ project built to explore how vector databases work by implementing similar
 
 ---
 
-## GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dhanugiri007&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanugiri007&theme=tokyo-night)](https://github.com/dhanugiri007)
-
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting!
