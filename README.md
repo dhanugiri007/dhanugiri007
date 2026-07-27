@@ -1,117 +1,118 @@
-
 <div align="center">
 
-# Dhanashri Chaudhari
+# Hi, I'm Dhanashri Chaudhari 👋
 
-Backend Engineering • Systems Programming • Problem Solving
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Backend+Developer;Learning;Building+Projects+to+Learn" />
 
-Research Intern @ Smart Lab
+### Computer Science Student • Backend Development • C++
 
-[LinkedIn](https://www.linkedin.com/in/dhanashrichaudhari007/) •
-[Email](mailto:dhanashrichaudhari200@gmail.com)
+<p>
+<a href="https://github.com/dhanugiri007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/dhanashrichaudhari007/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:dhanashrichaudhari200@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=dhanugiri007&style=for-the-badge&color=0e75b6)
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I'm interested in backend engineering and distributed systems. Most of my projects focus on designing reliable APIs, understanding how systems behave under failure, and implementing ideas from first principles instead of relying entirely on frameworks.
+I'm a **second-year Computer Science student** who enjoys building backend applications and learning how software works behind the scenes.
 
-Currently exploring database internals, vector search, authentication, and system design while solving data structures and algorithms.
+Rather than just using libraries and frameworks, I like understanding the ideas behind them by building projects from scratch. Recently, I've been exploring authentication, databases, and backend system design through personal projects.
 
----
-
-## Technologies
-
-**Languages**
-
-- C++
-- JavaScript
-- SQL
-
-**Backend**
-
-- Node.js
-- Express.js
-
-**Databases**
-
-- MongoDB
-- PostgreSQL
-
-**Security**
-
-- JWT
-- bcrypt
-- HTTP-only Cookies
-
-**Tools**
-
-- Git
-- GitHub
-- Postman
-- Swagger
+Outside of coding, I enjoy solving DSA problems and reading about how large-scale systems are built.
 
 ---
 
-## Selected Projects
+## 🌱 Currently Learning
+
+- 📚 **DSA** → [CP Handbook](https://cses.fi/book/book.pdf) & [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+- 🌱 **Open Source** → [A Complete Guide to Getting Started in Open Source](https://dev.to/opensauced/a-complete-guide-to-getting-started-in-open-source-2449)
+- 🌐 **Computer Networks** → [CS425, IIT Kanpur](https://www.cse.iitk.ac.in/users/dheeraj/cs425/)
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,sql" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
+
+---
+
+## Featured Projects
 
 ### PaySphere
+A backend project inspired by digital wallet systems, built to understand secure authentication, transactions, and ledger-based accounting.
 
-A digital wallet backend built around a double-entry ledger rather than maintaining mutable account balances.
-
-Highlights
-
-- Atomic money transfers using MongoDB transactions
-- Idempotency keys to safely retry failed requests
-- JWT authentication and secure session handling
-- Transaction history with complete auditability
+**Highlights**
+- MongoDB Transactions
+- Double-entry Ledger
+- Idempotency Keys
+- Transaction History API
 
 ---
 
 ### Atlas
+A C++ project built to explore how vector databases work by implementing similarity search algorithms and indexing techniques.
 
-An in-memory vector database implemented in C++ to explore similarity search and indexing algorithms.
+**Highlights**
+- KD-Tree Search
+- Brute Force Search
+- Cosine, Euclidean & Manhattan Distance
+- Modular Design
 
-Highlights
-
-- REST API for vector insertion and nearest-neighbor queries
-- Brute-force and KD-tree search implementations
-- Multiple distance metrics (Cosine, Euclidean, Manhattan)
-- Modular architecture separating storage, indexing, and search
-- Built as a study of vector database internals rather than a production system
 
 ---
 
-## GitHub Statistics
+## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dhanugiri007&theme=dark)
-
----
-
-## Interests
-
-Currently reading and building around
-
-- Database Internals
-- Distributed Systems
-- Search Algorithms
-- Backend Architecture
-- Modern C++
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=dhanugiri007&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## Contact
+## Contribution Graph
 
-- LinkedIn: https://www.linkedin.com/in/dhanashrichaudhari007/
-- Email: dhanashrichaudhari200@gmail.com
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanugiri007&theme=tokyo-night)](https://github.com/dhanugiri007)
+
 
 ---
 
 <div align="center">
 
-*"Simple systems are easy to build. Reliable systems are difficult."*
+### ⭐ Thanks for visiting!
+
+*"Every project teaches me something new, and that's what keeps me building."*
+
+</div>
 
 </div>
 
