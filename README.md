@@ -66,30 +66,40 @@ Outside of coding, I enjoy solving DSA problems and reading about how large-scal
 
 ---
 
-## Featured Projects
+## 📊 GitHub Stats
 
-### PaySphere
-A backend project inspired by digital wallet systems, built to understand secure authentication, transactions, and ledger-based accounting.
+<div align="center">
 
-**Highlights**
-- MongoDB Transactions
-- Double-entry Ledger
-- Idempotency Keys
-- Transaction History API
 
----
 
-### Atlas
-A C++ project built to explore how vector databases work by implementing similarity search algorithms and indexing techniques.
+</div>
 
-**Highlights**
-- KD-Tree Search
-- Brute Force Search
-- Cosine, Euclidean & Manhattan Distance
-- Modular Design
+<br>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dhanugiri007&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
+
+##  Coding Activity
+
+<div align="center">
+
+[![Dhanashri's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanugiri007\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/dhanugiri007)
+
+</div>
+
+---
+## Github snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
 
 <div align="center">
 
