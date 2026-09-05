@@ -9,6 +9,3 @@
 <img src="https://skillicons.dev/icons?i=cpp,js,java,python,react,nextjs,nodejs,express,postgres,mysql,redis,git,github,vscode,linux,docker,postman" /> 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
