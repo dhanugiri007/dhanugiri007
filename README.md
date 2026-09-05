@@ -6,6 +6,6 @@
 
 ## 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=cpp,js,java,python,react,nextjs,nodejs,express,postgres,mysql,redis,git,github,vscode,linux,docker,postman" /> 
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,nodejs,express,postgres,mysql,redis,git,github,vscode,linux,docker,postman" /> 
 ---
 
